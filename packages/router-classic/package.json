@@ -1,0 +1,11 @@
+{
+  "name": "router-classic",
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "typescript": "^4.9.5"
+  },
+  "peerDependencies": {
+    "react": "18"
+  },
+  "main": "src/index.ts"
+}
